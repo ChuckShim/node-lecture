@@ -1,9 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
-  <component name="Encoding">
+  <component name="Encoding" defaultCharsetForPropertiesFiles="UTF-8">
     <file url="file://$PROJECT_DIR$/01.helloworld.js" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/02.moduleSystem/calcArea.js" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/02.moduleSystem/circle.js" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/03.eventTest.js" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/04.httpClient.js" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/05.routeTest.js" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/06.expressRouting.js" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/routes/company.js" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/routes/index.js" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/routes/product.js" charset="UTF-8" />
+    <file url="PROJECT" charset="UTF-8" />
   </component>
 </project>
